@@ -27,11 +27,6 @@ Assim pegando as informações enviadas através do servidor da api e mostrando 
 (`USDBRL.ask`) equivale para o nome da moeda a ser convertida e o tipo de ação que iremos realizar, nesse caso o `ask` estará nos retornando o valor de **Venda** do dólar.
 
 
-## Screenshots
-
-![App Screenshot](https://photos.app.goo.gl/EWcjgHiTG3iGBC2J8)
-![App Screenshot]()
-
 
 ## API de Cotações de Moedas
 
