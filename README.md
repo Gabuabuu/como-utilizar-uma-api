@@ -24,7 +24,7 @@ Depois de setar o id `span` para a tag `SPAN` no html, nós usamos o
 
 Assim pegando as informações enviadas através do servidor da api e mostrando no nosso body.
 
-(USDBRL.ask) equivale para o nome da moeda a ser convertida e o tipo de ação que iremos realizar, nesse caso o `ask` estará nos retornando o valor de **Venda** do dólar.
+(`USDBRL.ask`) equivale para o nome da moeda a ser convertida e o tipo de ação que iremos realizar, nesse caso o `ask` estará nos retornando o valor de **Venda** do dólar.
 
 
 ## Screenshots
